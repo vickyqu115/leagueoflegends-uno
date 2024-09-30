@@ -14,7 +14,7 @@
 
 我们自 2008 年以来一直在研究和积累 WPF 技术经验。多年来，Xamarin、MAUI、Uno-Platform、AvaloniaUI 和 OpenSilver 等各种跨平台技术不断发展，使我们能够将在 WPF 中积累的技能扩展到 Uno-Platform。
 
-我们发布的这个英雄联盟 Uno-Platform 版本是基于 WPF 的 XAML 丰富用户体验、C# 的面向对象设计以及系统化的项目结构构建的。这是继我们之前的 [WPF 版英雄联盟](https://github.com/jamesnetgorup/leagueoflegends-wpf)项目之后的新挑战。
+我们发布的这个英雄联盟 Uno-Platform 版本是基于 WPF 的 XAML 丰富用户体验、C# 的面向对象设计以及系统化的项目结构构建的。这是继我们之前的 [WPF 版英雄联盟](https://github.com/JamesnetGroup/leagueoflegends-wpf)项目之后的新挑战。
 
 本项目展示了如何在 Uno-Platform 上实现大规模项目。通过将复杂的控件实现为 CustomControls，我们旨在为开发人员提供丰富的学习材料。此外，它还包括 Uno 的各种技术实现案例，展示了如何在实际项目中利用 Uno 平台的强大功能。
 
