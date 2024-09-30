@@ -14,7 +14,7 @@ This is a high-quality recreation project of the League of Legends client using 
 
 We have been researching and gaining experience with WPF technology since 2008. Over the years, various cross-platform technologies such as Xamarin, MAUI, Uno-Platform, AvaloniaUI, and OpenSilver have evolved, allowing us to extend the skills accumulated in WPF to the Uno-Platform.
 
-This League of Legends Uno-Platform version we're releasing is built on the rich UX of XAML-based design from WPF, C#'s object-oriented design, and a systematic project structure. It's a new challenge following our previous [WPF version of League of Legends](https://github.com/jamesnetgorup/leagueoflegends-wpf) project.
+This League of Legends Uno-Platform version we're releasing is built on the rich UX of XAML-based design from WPF, C#'s object-oriented design, and a systematic project structure. It's a new challenge following our previous [WPF version of League of Legends](https://github.com/JamesnetGroup/leagueoflegends-wpf) project.
 
 This project demonstrates how to implement large-scale projects on the Uno-Platform. By implementing complex controls as CustomControls, we aim to provide developers with rich learning materials. Furthermore, it includes various technical implementation cases of Uno, showcasing how to utilize the powerful features of the Uno platform in real projects.
 
